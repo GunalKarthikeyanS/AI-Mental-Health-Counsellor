@@ -1,0 +1,21 @@
+# Environment variables — never upload real API keys
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Model files — too large for GitHub
+*.h5
+*.pkl
+
+# Mac system files
+.DS_Store
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Virtual environment
+venv/
+env/

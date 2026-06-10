@@ -1,0 +1,10 @@
+streamlit
+numpy
+tensorflow
+keras
+torch
+transformers
+groq
+python-dotenv
+scikit-learn
+pickle-mixin
